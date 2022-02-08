@@ -44,8 +44,8 @@ systemctl start mysql
 mysql_secure_installation <<EOF
 
 y
-cjswo12!@
-cjswo12!@
+passwd
+passwd
 y
 y
 y
